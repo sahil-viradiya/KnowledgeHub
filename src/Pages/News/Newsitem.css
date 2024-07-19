@@ -1,0 +1,13 @@
+.item{
+    width: 700px;;
+    padding: 20px;
+    background-color: aliceblue;
+    border: 1px solid;
+    margin-bottom: 20px;
+    position: relative;
+    align-self: center;
+}
+
+.images{
+    width: 400px;
+}
